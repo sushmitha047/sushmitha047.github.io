@@ -552,6 +552,13 @@ export const volunteering = [
     detail:
       "Coordinated the weekly Tuesday Luncheon (40 students) and FISH — Friday's International Supper and Hospitality (150 students), fostering community and cultural exchange.",
   },
+  {
+  org: "Visvesvaraya Technological University",
+  title: "Computer Society of India — student chapter",
+  period: "2017 — 2019",
+  detail:
+    "Managed competitions at the CSI Technical Symposium, and presented \"High Performance Computing with Quantum Processing Units\" to an audience of 120 students.",
+},
 ];
 
 export const sections = [
