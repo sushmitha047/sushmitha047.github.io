@@ -295,8 +295,7 @@ export default function App() {
         <Section id="contact" title="Get in touch" i={29}>
           <Fade i={29}>
             <p className="text-[0.875rem] text-muted">
-              Open to machine learning engineer, MLOps, AI engineer and applied or
-              research scientist roles. Email or LinkedIn is the fastest way to
+              Open to machine learning engineer, MLOps, Data Scientist, Applied Researcher, and Research scientist roles. Email or LinkedIn is the fastest way to
               reach me.
             </p>
             <div className="mt-4 flex flex-wrap gap-2">
